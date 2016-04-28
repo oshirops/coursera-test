@@ -1,0 +1,84 @@
+body {
+	font-size: 16px;
+	color: black;
+}
+
+/*------HEADER-----*/
+#header-nav {
+	/*background-color: #337ab7;*/
+	background-color: green;
+	border-radius: 0;
+	padding: 0px;
+	color:green;
+	margin-bottom: 0px;
+}
+
+div#collapsable-nav {
+	background-color: white;
+	margin-top: 0px;
+	line-height: 1.8;
+}
+
+div.navbar-header a h1{
+	color: white;
+}
+button.navbar-toggle {
+	margin-top: 10px;
+	margin-bottom: auto;
+	background-color: white;
+}
+
+ul#nav-list{
+	margin: 0 -15px;
+	border: solid 1px black;
+}
+nav.navbar{
+	margin: 0;
+	border: 0;
+}
+
+li{
+	border: solid 1px black;
+}
+
+div ul li a {
+	color: black;
+	font-size: 1.5em;
+}
+
+/********** Main Page ************************************/
+h2 {
+	color: black;
+}
+
+div.container {
+	width: 100%;
+}
+
+section.row{
+	margin: 0;
+	width: 100%;
+	padding: 0 0 0 0;
+}
+section div {
+	background-color: grey;
+	padding: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 100%;
+}
+
+h3.text-center{
+	font-size: 1.3em;
+	color: white;
+	font-weight: bold;
+}
+
+div.navbar-header h1 {
+	position: relative;
+	float: left;
+	color: #337ab7;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
